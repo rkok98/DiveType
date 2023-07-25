@@ -178,3 +178,7 @@ dist
 .idea
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,node
+
+# stryker temp files
+.stryker-tmp
+/reports/

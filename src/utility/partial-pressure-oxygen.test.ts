@@ -1,4 +1,4 @@
-import { PartialPressureOfOxygen } from 'utility/partial-pressure-oxygen';
+import { PartialPressureOfOxygen } from './partial-pressure-oxygen';
 
 describe('Test Partial Pressure of Oxygen Functions', () => {
 	it('Ewa', () => {
